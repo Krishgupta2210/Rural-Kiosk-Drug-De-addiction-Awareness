@@ -26,7 +26,8 @@ This project introduces a **Rural Drug De-addiction Awareness Kiosk** that deliv
 
 ## 🛠 Methodology
 
-<img width="698" height="337" alt="image" src="https://github.com/user-attachments/assets/eae4ee94-4770-42c2-9825-5811b1efe246" />
+<img width="982" height="653" alt="image" src="https://github.com/user-attachments/assets/52afbc9e-59fd-4da9-8b9f-60128ceda180" />
+
 
 
 ---
